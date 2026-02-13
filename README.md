@@ -2,6 +2,8 @@
 
 Guitar chord & song viewer web application. ค้นหาคอร์ดกีต้าและดูคอร์ดเพลงได้ง่ายๆ ที่เดียวจบ
 
+**Live Demo**: [https://chordy-orcin.vercel.app](https://chordy-orcin.vercel.app/)
+
 ## Features
 
 - **Chord Library** — คอร์ดกีต้า 108+ คอร์ด พร้อมแผนภาพ SVG แสดงตำแหน่งนิ้ว
